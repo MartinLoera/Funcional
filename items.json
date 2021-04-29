@@ -1,722 +1,722 @@
 [
-     {
-         "id": "384",
-         "descripcion": " ",
-         "price": "887",
-         "classification": "verduras",
-         "stock": "916",
-         "exist_min": "794",
-         "exist_max": "336"
-     },
-     {
-         "id": "387",
-         "descripcion": " ",
-         "price": "493",
-         "classification": "aperitivos",
-         "stock": "422",
-         "exist_min": "363",
-         "exist_max": "28"
-     },
-     {
-         "id": "691",
-         "descripcion": " ",
-         "price": "60",
-         "classification": "frutas",
-         "stock": "927",
-         "exist_min": "541",
-         "exist_max": "427"
-     },
-     {
-         "id": "173",
-         "descripcion": " ",
-         "price": "737",
-         "classification": "higiene",
-         "stock": "369",
-         "exist_min": "568",
-         "exist_max": "430"
-     },
-     {
-         "id": "783",
-         "descripcion": " ",
-         "price": "531",
-         "classification": "verduras",
-         "stock": "124",
-         "exist_min": "68",
-         "exist_max": "136"
-     },
-     {
-         "id": "930",
-         "descripcion": " ",
-         "price": "803",
-         "classification": "verduras",
-         "stock": "59",
-         "exist_min": "70",
-         "exist_max": "168"
-     },
-     {
-         "id": "394",
-         "descripcion": " ",
-         "price": "457",
-         "classification": "higiene",
-         "stock": "43",
-         "exist_min": "230",
-         "exist_max": "374"
-     },
-     {
-         "id": "422",
-         "descripcion": " ",
-         "price": "920",
-         "classification": "aperitivos",
-         "stock": "538",
-         "exist_min": "199",
-         "exist_max": "325"
-     },
-     {
-         "id": "316",
-         "descripcion": " ",
-         "price": "371",
-         "classification": "frutas",
-         "stock": "527",
-         "exist_min": "92",
-         "exist_max": "981"
-     },
-     {
-         "id": "957",
-         "descripcion": " ",
-         "price": "874",
-         "classification": "verduras",
-         "stock": "171",
-         "exist_min": "997",
-         "exist_max": "282"
-     },
-     {
-         "id": "306",
-         "descripcion": " ",
-         "price": "926",
-         "classification": "aperitivos",
-         "stock": "328",
-         "exist_min": "337",
-         "exist_max": "506"
-     },
-     {
-         "id": "847",
-         "descripcion": " ",
-         "price": "730",
-         "classification": "frutas",
-         "stock": "858",
-         "exist_min": "125",
-         "exist_max": "896"
-     },
-     {
-         "id": "583",
-         "descripcion": " ",
-         "price": "546",
-         "classification": "aperitivos",
-         "stock": "368",
-         "exist_min": "435",
-         "exist_max": "365"
-     },
-     {
-         "id": "44",
-         "descripcion": " ",
-         "price": "751",
-         "classification": "verduras",
-         "stock": "809",
-         "exist_min": "277",
-         "exist_max": "179"
-     },
-     {
-         "id": "789",
-         "descripcion": " ",
-         "price": "585",
-         "classification": "frutas",
-         "stock": "652",
-         "exist_min": "755",
-         "exist_max": "400"
-     },
-     {
-         "id": "933",
-         "descripcion": " ",
-         "price": "61",
-         "classification": "higiene",
-         "stock": "369",
-         "exist_min": "740",
-         "exist_max": "13"
-     },
-     {
-         "id": "227",
-         "descripcion": " ",
-         "price": "587",
-         "classification": "aperitivos",
-         "stock": "540",
-         "exist_min": "796",
-         "exist_max": "571"
-     },
-     {
-         "id": "435",
-         "descripcion": " ",
-         "price": "379",
-         "classification": "verduras",
-         "stock": "602",
-         "exist_min": "98",
-         "exist_max": "903"
-     },
-     {
-         "id": "318",
-         "descripcion": " ",
-         "price": "493",
-         "classification": "verduras",
-         "stock": "757",
-         "exist_min": "302",
-         "exist_max": "281"
-     },
-     {
-         "id": "287",
-         "descripcion": " ",
-         "price": "442",
-         "classification": "limpieza",
-         "stock": "690",
-         "exist_min": "445",
-         "exist_max": "620"
-     },
-     {
-         "id": "441",
-         "descripcion": " ",
-         "price": "730",
-         "classification": "higiene",
-         "stock": "118",
-         "exist_min": "98",
-         "exist_max": "772"
-     },
-     {
-         "id": "482",
-         "descripcion": " ",
-         "price": "676",
-         "classification": "aperitivos",
-         "stock": "928",
-         "exist_min": "568",
-         "exist_max": "857"
-     },
-     {
-         "id": "498",
-         "descripcion": " ",
-         "price": "354",
-         "classification": "higiene",
-         "stock": "966",
-         "exist_min": "307",
-         "exist_max": "684"
-     },
-     {
-         "id": "220",
-         "descripcion": " ",
-         "price": "625",
-         "classification": "frutas",
-         "stock": "872",
-         "exist_min": "733",
-         "exist_max": "830"
-     },
-     {
-         "id": "504",
-         "descripcion": " ",
-         "price": "20",
-         "classification": "limpieza",
-         "stock": "369",
-         "exist_min": "709",
-         "exist_max": "716"
-     },
-     {
-         "id": "341",
-         "descripcion": " ",
-         "price": "150",
-         "classification": "higiene",
-         "stock": "724",
-         "exist_min": "619",
-         "exist_max": "246"
-     },
-     {
-         "id": "847",
-         "descripcion": " ",
-         "price": "452",
-         "classification": "higiene",
-         "stock": "556",
-         "exist_min": "380",
-         "exist_max": "489"
-     },
-     {
-         "id": "765",
-         "descripcion": " ",
-         "price": "229",
-         "classification": "higiene",
-         "stock": "351",
-         "exist_min": "194",
-         "exist_max": "501"
-     },
-     {
-         "id": "35",
-         "descripcion": " ",
-         "price": "765",
-         "classification": "aperitivos",
-         "stock": "915",
-         "exist_min": "988",
-         "exist_max": "857"
-     },
-     {
-         "id": "744",
-         "descripcion": " ",
-         "price": "492",
-         "classification": "verduras",
-         "stock": "366",
-         "exist_min": "860",
-         "exist_max": "937"
-     },
-     {
-         "id": "433",
-         "descripcion": " ",
-         "price": "552",
-         "classification": "verduras",
-         "stock": "229",
-         "exist_min": "276",
-         "exist_max": "408"
-     },
-     {
-         "id": "475",
-         "descripcion": " ",
-         "price": "122",
-         "classification": "frutas",
-         "stock": "396",
-         "exist_min": "30",
-         "exist_max": "238"
-     },
-     {
-         "id": "236",
-         "descripcion": " ",
-         "price": "794",
-         "classification": "frutas",
-         "stock": "429",
-         "exist_min": "144",
-         "exist_max": "12"
-     },
-     {
-         "id": "929",
-         "descripcion": " ",
-         "price": "530",
-         "classification": "higiene",
-         "stock": "405",
-         "exist_min": "444",
-         "exist_max": "764"
-     },
-     {
-         "id": "614",
-         "descripcion": " ",
-         "price": "539",
-         "classification": "higiene",
-         "stock": "841",
-         "exist_min": "905",
-         "exist_max": "819"
-     },
-     {
-         "id": "129",
-         "descripcion": " ",
-         "price": "689",
-         "classification": "aperitivos",
-         "stock": "918",
-         "exist_min": "918",
-         "exist_max": "997"
-     },
-     {
-         "id": "325",
-         "descripcion": " ",
-         "price": "744",
-         "classification": "limpieza",
-         "stock": "184",
-         "exist_min": "491",
-         "exist_max": "500"
-     },
-     {
-         "id": "773",
-         "descripcion": " ",
-         "price": "726",
-         "classification": "aperitivos",
-         "stock": "591",
-         "exist_min": "506",
-         "exist_max": "140"
-     },
-     {
-         "id": "955",
-         "descripcion": " ",
-         "price": "787",
-         "classification": "aperitivos",
-         "stock": "83",
-         "exist_min": "543",
-         "exist_max": "465"
-     },
-     {
-         "id": "198",
-         "descripcion": " ",
-         "price": "508",
-         "classification": "limpieza",
-         "stock": "805",
-         "exist_min": "349",
-         "exist_max": "612"
-     },
-     {
-         "id": "623",
-         "descripcion": " ",
-         "price": "829",
-         "classification": "aperitivos",
-         "stock": "344",
-         "exist_min": "747",
-         "exist_max": "569"
-     },
-     {
-         "id": "341",
-         "descripcion": " ",
-         "price": "423",
-         "classification": "higiene",
-         "stock": "811",
-         "exist_min": "606",
-         "exist_max": "802"
-     },
-     {
-         "id": "662",
-         "descripcion": " ",
-         "price": "731",
-         "classification": "frutas",
-         "stock": "306",
-         "exist_min": "321",
-         "exist_max": "737"
-     },
-     {
-         "id": "445",
-         "descripcion": " ",
-         "price": "627",
-         "classification": "verduras",
-         "stock": "466",
-         "exist_min": "709",
-         "exist_max": "417"
-     },
-     {
-         "id": "283",
-         "descripcion": " ",
-         "price": "259",
-         "classification": "aperitivos",
-         "stock": "638",
-         "exist_min": "63",
-         "exist_max": "625"
-     },
-     {
-         "id": "601",
-         "descripcion": " ",
-         "price": "37",
-         "classification": "verduras",
-         "stock": "900",
-         "exist_min": "380",
-         "exist_max": "551"
-     },
-     {
-         "id": "469",
-         "descripcion": " ",
-         "price": "72",
-         "classification": "frutas",
-         "stock": "132",
-         "exist_min": "882",
-         "exist_max": "931"
-     },
-     {
-         "id": "934",
-         "descripcion": " ",
-         "price": "895",
-         "classification": "limpieza",
-         "stock": "164",
-         "exist_min": "200",
-         "exist_max": "982"
-     },
-     {
-         "id": "900",
-         "descripcion": " ",
-         "price": "997",
-         "classification": "aperitivos",
-         "stock": "774",
-         "exist_min": "814",
-         "exist_max": "669"
-     },
-     {
-         "id": "191",
-         "descripcion": " ",
-         "price": "96",
-         "classification": "higiene",
-         "stock": "467",
-         "exist_min": "85",
-         "exist_max": "341"
-     },
-     {
-         "id": "91",
-         "descripcion": " ",
-         "price": "685",
-         "classification": "higiene",
-         "stock": "543",
-         "exist_min": "937",
-         "exist_max": "108"
-     },
-     {
-         "id": "446",
-         "descripcion": " ",
-         "price": "757",
-         "classification": "aperitivos",
-         "stock": "419",
-         "exist_min": "888",
-         "exist_max": "413"
-     },
-     {
-         "id": "349",
-         "descripcion": " ",
-         "price": "173",
-         "classification": "aperitivos",
-         "stock": "10",
-         "exist_min": "337",
-         "exist_max": "211"
-     },
-     {
-         "id": "343",
-         "descripcion": " ",
-         "price": "588",
-         "classification": "higiene",
-         "stock": "302",
-         "exist_min": "714",
-         "exist_max": "373"
-     },
-     {
-         "id": "322",
-         "descripcion": " ",
-         "price": "256",
-         "classification": "aperitivos",
-         "stock": "600",
-         "exist_min": "722",
-         "exist_max": "905"
-     },
-     {
-         "id": "940",
-         "descripcion": " ",
-         "price": "812",
-         "classification": "limpieza",
-         "stock": "668",
-         "exist_min": "706",
-         "exist_max": "229"
-     },
-     {
-         "id": "128",
-         "descripcion": " ",
-         "price": "151",
-         "classification": "aperitivos",
-         "stock": "659",
-         "exist_min": "921",
-         "exist_max": "225"
-     },
-     {
-         "id": "423",
-         "descripcion": " ",
-         "price": "270",
-         "classification": "higiene",
-         "stock": "82",
-         "exist_min": "631",
-         "exist_max": "85"
-     },
-     {
-         "id": "293",
-         "descripcion": " ",
-         "price": "973",
-         "classification": "verduras",
-         "stock": "851",
-         "exist_min": "626",
-         "exist_max": "386"
-     },
-     {
-         "id": "223",
-         "descripcion": " ",
-         "price": "300",
-         "classification": "limpieza",
-         "stock": "43",
-         "exist_min": "899",
-         "exist_max": "714"
-     },
-     {
-         "id": "299",
-         "descripcion": " ",
-         "price": "191",
-         "classification": "aperitivos",
-         "stock": "591",
-         "exist_min": "210",
-         "exist_max": "582"
-     },
-     {
-         "id": "820",
-         "descripcion": " ",
-         "price": "337",
-         "classification": "verduras",
-         "stock": "156",
-         "exist_min": "995",
-         "exist_max": "5"
-     },
-     {
-         "id": "380",
-         "descripcion": " ",
-         "price": "770",
-         "classification": "frutas",
-         "stock": "777",
-         "exist_min": "851",
-         "exist_max": "256"
-     },
-     {
-         "id": "861",
-         "descripcion": " ",
-         "price": "143",
-         "classification": "aperitivos",
-         "stock": "885",
-         "exist_min": "994",
-         "exist_max": "206"
-     },
-     {
-         "id": "622",
-         "descripcion": " ",
-         "price": "568",
-         "classification": "aperitivos",
-         "stock": "614",
-         "exist_min": "962",
-         "exist_max": "755"
-     },
-     {
-         "id": "327",
-         "descripcion": " ",
-         "price": "260",
-         "classification": "aperitivos",
-         "stock": "203",
-         "exist_min": "203",
-         "exist_max": "507"
-     },
-     {
-         "id": "785",
-         "descripcion": " ",
-         "price": "22",
-         "classification": "verduras",
-         "stock": "869",
-         "exist_min": "529",
-         "exist_max": "190"
-     },
-     {
-         "id": "873",
-         "descripcion": " ",
-         "price": "909",
-         "classification": "frutas",
-         "stock": "499",
-         "exist_min": "37",
-         "exist_max": "809"
-     },
-     {
-         "id": "754",
-         "descripcion": " ",
-         "price": "249",
-         "classification": "frutas",
-         "stock": "334",
-         "exist_min": "134",
-         "exist_max": "649"
-     },
-     {
-         "id": "891",
-         "descripcion": " ",
-         "price": "755",
-         "classification": "verduras",
-         "stock": "747",
-         "exist_min": "369",
-         "exist_max": "530"
-     },
-     {
-         "id": "501",
-         "descripcion": " ",
-         "price": "47",
-         "classification": "frutas",
-         "stock": "798",
-         "exist_min": "250",
-         "exist_max": "991"
-     },
-     {
-         "id": "304",
-         "descripcion": " ",
-         "price": "34",
-         "classification": "frutas",
-         "stock": "498",
-         "exist_min": "254",
-         "exist_max": "893"
-     },
-     {
-         "id": "687",
-         "descripcion": " ",
-         "price": "126",
-         "classification": "verduras",
-         "stock": "997",
-         "exist_min": "976",
-         "exist_max": "189"
-     },
-     {
-         "id": "158",
-         "descripcion": " ",
-         "price": "730",
-         "classification": "higiene",
-         "stock": "461",
-         "exist_min": "415",
-         "exist_max": "922"
-     },
-     {
-         "id": "461",
-         "descripcion": " ",
-         "price": "305",
-         "classification": "frutas",
-         "stock": "28",
-         "exist_min": "51",
-         "exist_max": "749"
-     },
-     {
-         "id": "557",
-         "descripcion": " ",
-         "price": "903",
-         "classification": "aperitivos",
-         "stock": "698",
-         "exist_min": "700",
-         "exist_max": "44"
-     },
-     {
-         "id": "40",
-         "descripcion": " ",
-         "price": "3",
-         "classification": "frutas",
-         "stock": "404",
-         "exist_min": "501",
-         "exist_max": "682"
-     },
-     {
-         "id": "648",
-         "descripcion": " ",
-         "price": "539",
-         "classification": "aperitivos",
-         "stock": "152",
-         "exist_min": "536",
-         "exist_max": "135"
-     },
-     {
-         "id": "340",
-         "descripcion": " ",
-         "price": "693",
-         "classification": "limpieza",
-         "stock": "128",
-         "exist_min": "505",
-         "exist_max": "630"
-     },
-     {
-         "id": "50",
-         "descripcion": " ",
-         "price": "965",
-         "classification": "limpieza",
-         "stock": "430",
-         "exist_min": "344",
-         "exist_max": "336"
-     }
+  {
+    "id": "384",
+    "descripcion": " ",
+    "price": "887",
+    "classification": "verduras",
+    "stock": "916",
+    "exist_min": "794",
+    "exist_max": "336"
+  },
+  {
+    "id": "387",
+    "descripcion": " ",
+    "price": "493",
+    "classification": "aperitivos",
+    "stock": "422",
+    "exist_min": "363",
+    "exist_max": "28"
+  },
+  {
+    "id": "691",
+    "descripcion": " ",
+    "price": "60",
+    "classification": "frutas",
+    "stock": "927",
+    "exist_min": "541",
+    "exist_max": "427"
+  },
+  {
+    "id": "173",
+    "descripcion": " ",
+    "price": "737",
+    "classification": "higiene",
+    "stock": "369",
+    "exist_min": "568",
+    "exist_max": "430"
+  },
+  {
+    "id": "783",
+    "descripcion": " ",
+    "price": "531",
+    "classification": "verduras",
+    "stock": "124",
+    "exist_min": "68",
+    "exist_max": "136"
+  },
+  {
+    "id": "930",
+    "descripcion": " ",
+    "price": "803",
+    "classification": "verduras",
+    "stock": "59",
+    "exist_min": "70",
+    "exist_max": "168"
+  },
+  {
+    "id": "394",
+    "descripcion": " ",
+    "price": "457",
+    "classification": "higiene",
+    "stock": "43",
+    "exist_min": "230",
+    "exist_max": "374"
+  },
+  {
+    "id": "422",
+    "descripcion": " ",
+    "price": "920",
+    "classification": "aperitivos",
+    "stock": "538",
+    "exist_min": "199",
+    "exist_max": "325"
+  },
+  {
+    "id": "316",
+    "descripcion": " ",
+    "price": "371",
+    "classification": "frutas",
+    "stock": "527",
+    "exist_min": "92",
+    "exist_max": "981"
+  },
+  {
+    "id": "957",
+    "descripcion": " ",
+    "price": "874",
+    "classification": "verduras",
+    "stock": "171",
+    "exist_min": "997",
+    "exist_max": "282"
+  },
+  {
+    "id": "306",
+    "descripcion": " ",
+    "price": "926",
+    "classification": "aperitivos",
+    "stock": "328",
+    "exist_min": "337",
+    "exist_max": "506"
+  },
+  {
+    "id": "847",
+    "descripcion": " ",
+    "price": "730",
+    "classification": "frutas",
+    "stock": "858",
+    "exist_min": "125",
+    "exist_max": "896"
+  },
+  {
+    "id": "583",
+    "descripcion": " ",
+    "price": "546",
+    "classification": "aperitivos",
+    "stock": "368",
+    "exist_min": "435",
+    "exist_max": "365"
+  },
+  {
+    "id": "44",
+    "descripcion": " ",
+    "price": "751",
+    "classification": "verduras",
+    "stock": "809",
+    "exist_min": "277",
+    "exist_max": "179"
+  },
+  {
+    "id": "789",
+    "descripcion": " ",
+    "price": "585",
+    "classification": "frutas",
+    "stock": "652",
+    "exist_min": "755",
+    "exist_max": "400"
+  },
+  {
+    "id": "933",
+    "descripcion": " ",
+    "price": "61",
+    "classification": "higiene",
+    "stock": "369",
+    "exist_min": "740",
+    "exist_max": "13"
+  },
+  {
+    "id": "227",
+    "descripcion": " ",
+    "price": "587",
+    "classification": "aperitivos",
+    "stock": "540",
+    "exist_min": "796",
+    "exist_max": "571"
+  },
+  {
+    "id": "435",
+    "descripcion": " ",
+    "price": "379",
+    "classification": "verduras",
+    "stock": "602",
+    "exist_min": "98",
+    "exist_max": "903"
+  },
+  {
+    "id": "318",
+    "descripcion": " ",
+    "price": "493",
+    "classification": "verduras",
+    "stock": "757",
+    "exist_min": "302",
+    "exist_max": "281"
+  },
+  {
+    "id": "287",
+    "descripcion": " ",
+    "price": "442",
+    "classification": "limpieza",
+    "stock": "690",
+    "exist_min": "445",
+    "exist_max": "620"
+  },
+  {
+    "id": "441",
+    "descripcion": " ",
+    "price": "730",
+    "classification": "higiene",
+    "stock": "118",
+    "exist_min": "98",
+    "exist_max": "772"
+  },
+  {
+    "id": "482",
+    "descripcion": " ",
+    "price": "676",
+    "classification": "aperitivos",
+    "stock": "928",
+    "exist_min": "568",
+    "exist_max": "857"
+  },
+  {
+    "id": "498",
+    "descripcion": " ",
+    "price": "354",
+    "classification": "higiene",
+    "stock": "966",
+    "exist_min": "307",
+    "exist_max": "684"
+  },
+  {
+    "id": "220",
+    "descripcion": " ",
+    "price": "625",
+    "classification": "frutas",
+    "stock": "872",
+    "exist_min": "733",
+    "exist_max": "830"
+  },
+  {
+    "id": "504",
+    "descripcion": " ",
+    "price": "20",
+    "classification": "limpieza",
+    "stock": "369",
+    "exist_min": "709",
+    "exist_max": "716"
+  },
+  {
+    "id": "341",
+    "descripcion": " ",
+    "price": "150",
+    "classification": "higiene",
+    "stock": "724",
+    "exist_min": "619",
+    "exist_max": "246"
+  },
+  {
+    "id": "847",
+    "descripcion": " ",
+    "price": "452",
+    "classification": "higiene",
+    "stock": "556",
+    "exist_min": "380",
+    "exist_max": "489"
+  },
+  {
+    "id": "765",
+    "descripcion": " ",
+    "price": "229",
+    "classification": "higiene",
+    "stock": "351",
+    "exist_min": "194",
+    "exist_max": "501"
+  },
+  {
+    "id": "35",
+    "descripcion": " ",
+    "price": "765",
+    "classification": "aperitivos",
+    "stock": "915",
+    "exist_min": "988",
+    "exist_max": "857"
+  },
+  {
+    "id": "744",
+    "descripcion": " ",
+    "price": "492",
+    "classification": "verduras",
+    "stock": "366",
+    "exist_min": "860",
+    "exist_max": "937"
+  },
+  {
+    "id": "433",
+    "descripcion": " ",
+    "price": "552",
+    "classification": "verduras",
+    "stock": "229",
+    "exist_min": "276",
+    "exist_max": "408"
+  },
+  {
+    "id": "475",
+    "descripcion": " ",
+    "price": "122",
+    "classification": "frutas",
+    "stock": "396",
+    "exist_min": "30",
+    "exist_max": "238"
+  },
+  {
+    "id": "236",
+    "descripcion": " ",
+    "price": "794",
+    "classification": "frutas",
+    "stock": "429",
+    "exist_min": "144",
+    "exist_max": "12"
+  },
+  {
+    "id": "929",
+    "descripcion": " ",
+    "price": "530",
+    "classification": "higiene",
+    "stock": "405",
+    "exist_min": "444",
+    "exist_max": "764"
+  },
+  {
+    "id": "614",
+    "descripcion": " ",
+    "price": "539",
+    "classification": "higiene",
+    "stock": "841",
+    "exist_min": "905",
+    "exist_max": "819"
+  },
+  {
+    "id": "129",
+    "descripcion": " ",
+    "price": "689",
+    "classification": "aperitivos",
+    "stock": "918",
+    "exist_min": "918",
+    "exist_max": "997"
+  },
+  {
+    "id": "325",
+    "descripcion": " ",
+    "price": "744",
+    "classification": "limpieza",
+    "stock": "184",
+    "exist_min": "491",
+    "exist_max": "500"
+  },
+  {
+    "id": "773",
+    "descripcion": " ",
+    "price": "726",
+    "classification": "aperitivos",
+    "stock": "591",
+    "exist_min": "506",
+    "exist_max": "140"
+  },
+  {
+    "id": "955",
+    "descripcion": " ",
+    "price": "787",
+    "classification": "aperitivos",
+    "stock": "83",
+    "exist_min": "543",
+    "exist_max": "465"
+  },
+  {
+    "id": "198",
+    "descripcion": " ",
+    "price": "508",
+    "classification": "limpieza",
+    "stock": "805",
+    "exist_min": "349",
+    "exist_max": "612"
+  },
+  {
+    "id": "623",
+    "descripcion": " ",
+    "price": "829",
+    "classification": "aperitivos",
+    "stock": "344",
+    "exist_min": "747",
+    "exist_max": "569"
+  },
+  {
+    "id": "341",
+    "descripcion": " ",
+    "price": "423",
+    "classification": "higiene",
+    "stock": "811",
+    "exist_min": "606",
+    "exist_max": "802"
+  },
+  {
+    "id": "662",
+    "descripcion": " ",
+    "price": "731",
+    "classification": "frutas",
+    "stock": "306",
+    "exist_min": "321",
+    "exist_max": "737"
+  },
+  {
+    "id": "445",
+    "descripcion": " ",
+    "price": "627",
+    "classification": "verduras",
+    "stock": "466",
+    "exist_min": "709",
+    "exist_max": "417"
+  },
+  {
+    "id": "283",
+    "descripcion": " ",
+    "price": "259",
+    "classification": "aperitivos",
+    "stock": "638",
+    "exist_min": "63",
+    "exist_max": "625"
+  },
+  {
+    "id": "601",
+    "descripcion": " ",
+    "price": "37",
+    "classification": "verduras",
+    "stock": "900",
+    "exist_min": "380",
+    "exist_max": "551"
+  },
+  {
+    "id": "469",
+    "descripcion": " ",
+    "price": "72",
+    "classification": "frutas",
+    "stock": "132",
+    "exist_min": "882",
+    "exist_max": "931"
+  },
+  {
+    "id": "934",
+    "descripcion": " ",
+    "price": "895",
+    "classification": "limpieza",
+    "stock": "164",
+    "exist_min": "200",
+    "exist_max": "982"
+  },
+  {
+    "id": "900",
+    "descripcion": " ",
+    "price": "997",
+    "classification": "aperitivos",
+    "stock": "774",
+    "exist_min": "814",
+    "exist_max": "669"
+  },
+  {
+    "id": "191",
+    "descripcion": " ",
+    "price": "96",
+    "classification": "higiene",
+    "stock": "467",
+    "exist_min": "85",
+    "exist_max": "341"
+  },
+  {
+    "id": "91",
+    "descripcion": " ",
+    "price": "685",
+    "classification": "higiene",
+    "stock": "543",
+    "exist_min": "937",
+    "exist_max": "108"
+  },
+  {
+    "id": "446",
+    "descripcion": " ",
+    "price": "757",
+    "classification": "aperitivos",
+    "stock": "419",
+    "exist_min": "888",
+    "exist_max": "413"
+  },
+  {
+    "id": "349",
+    "descripcion": " ",
+    "price": "173",
+    "classification": "aperitivos",
+    "stock": "10",
+    "exist_min": "337",
+    "exist_max": "211"
+  },
+  {
+    "id": "343",
+    "descripcion": " ",
+    "price": "588",
+    "classification": "higiene",
+    "stock": "302",
+    "exist_min": "714",
+    "exist_max": "373"
+  },
+  {
+    "id": "322",
+    "descripcion": " ",
+    "price": "256",
+    "classification": "aperitivos",
+    "stock": "600",
+    "exist_min": "722",
+    "exist_max": "905"
+  },
+  {
+    "id": "940",
+    "descripcion": " ",
+    "price": "812",
+    "classification": "limpieza",
+    "stock": "668",
+    "exist_min": "706",
+    "exist_max": "229"
+  },
+  {
+    "id": "128",
+    "descripcion": " ",
+    "price": "151",
+    "classification": "aperitivos",
+    "stock": "659",
+    "exist_min": "921",
+    "exist_max": "225"
+  },
+  {
+    "id": "423",
+    "descripcion": " ",
+    "price": "270",
+    "classification": "higiene",
+    "stock": "82",
+    "exist_min": "631",
+    "exist_max": "85"
+  },
+  {
+    "id": "293",
+    "descripcion": " ",
+    "price": "973",
+    "classification": "verduras",
+    "stock": "851",
+    "exist_min": "626",
+    "exist_max": "386"
+  },
+  {
+    "id": "223",
+    "descripcion": " ",
+    "price": "300",
+    "classification": "limpieza",
+    "stock": "43",
+    "exist_min": "899",
+    "exist_max": "714"
+  },
+  {
+    "id": "299",
+    "descripcion": " ",
+    "price": "191",
+    "classification": "aperitivos",
+    "stock": "591",
+    "exist_min": "210",
+    "exist_max": "582"
+  },
+  {
+    "id": "820",
+    "descripcion": " ",
+    "price": "337",
+    "classification": "verduras",
+    "stock": "156",
+    "exist_min": "995",
+    "exist_max": "5"
+  },
+  {
+    "id": "380",
+    "descripcion": " ",
+    "price": "770",
+    "classification": "frutas",
+    "stock": "777",
+    "exist_min": "851",
+    "exist_max": "256"
+  },
+  {
+    "id": "861",
+    "descripcion": " ",
+    "price": "143",
+    "classification": "aperitivos",
+    "stock": "885",
+    "exist_min": "994",
+    "exist_max": "206"
+  },
+  {
+    "id": "622",
+    "descripcion": " ",
+    "price": "568",
+    "classification": "aperitivos",
+    "stock": "614",
+    "exist_min": "962",
+    "exist_max": "755"
+  },
+  {
+    "id": "327",
+    "descripcion": " ",
+    "price": "260",
+    "classification": "aperitivos",
+    "stock": "203",
+    "exist_min": "203",
+    "exist_max": "507"
+  },
+  {
+    "id": "785",
+    "descripcion": " ",
+    "price": "22",
+    "classification": "verduras",
+    "stock": "869",
+    "exist_min": "529",
+    "exist_max": "190"
+  },
+  {
+    "id": "873",
+    "descripcion": " ",
+    "price": "909",
+    "classification": "frutas",
+    "stock": "499",
+    "exist_min": "37",
+    "exist_max": "809"
+  },
+  {
+    "id": "754",
+    "descripcion": " ",
+    "price": "249",
+    "classification": "frutas",
+    "stock": "334",
+    "exist_min": "134",
+    "exist_max": "649"
+  },
+  {
+    "id": "891",
+    "descripcion": " ",
+    "price": "755",
+    "classification": "verduras",
+    "stock": "747",
+    "exist_min": "369",
+    "exist_max": "530"
+  },
+  {
+    "id": "501",
+    "descripcion": " ",
+    "price": "47",
+    "classification": "frutas",
+    "stock": "798",
+    "exist_min": "250",
+    "exist_max": "991"
+  },
+  {
+    "id": "304",
+    "descripcion": " ",
+    "price": "34",
+    "classification": "frutas",
+    "stock": "498",
+    "exist_min": "254",
+    "exist_max": "893"
+  },
+  {
+    "id": "687",
+    "descripcion": " ",
+    "price": "126",
+    "classification": "verduras",
+    "stock": "997",
+    "exist_min": "976",
+    "exist_max": "189"
+  },
+  {
+    "id": "158",
+    "descripcion": " ",
+    "price": "730",
+    "classification": "higiene",
+    "stock": "461",
+    "exist_min": "415",
+    "exist_max": "922"
+  },
+  {
+    "id": "461",
+    "descripcion": " ",
+    "price": "305",
+    "classification": "frutas",
+    "stock": "28",
+    "exist_min": "51",
+    "exist_max": "749"
+  },
+  {
+    "id": "557",
+    "descripcion": " ",
+    "price": "903",
+    "classification": "aperitivos",
+    "stock": "698",
+    "exist_min": "700",
+    "exist_max": "44"
+  },
+  {
+    "id": "40",
+    "descripcion": " ",
+    "price": "3",
+    "classification": "frutas",
+    "stock": "404",
+    "exist_min": "501",
+    "exist_max": "682"
+  },
+  {
+    "id": "648",
+    "descripcion": " ",
+    "price": "539",
+    "classification": "aperitivos",
+    "stock": "152",
+    "exist_min": "536",
+    "exist_max": "135"
+  },
+  {
+    "id": "340",
+    "descripcion": " ",
+    "price": "693",
+    "classification": "limpieza",
+    "stock": "128",
+    "exist_min": "505",
+    "exist_max": "630"
+  },
+  {
+    "id": "50",
+    "descripcion": " ",
+    "price": "965",
+    "classification": "limpieza",
+    "stock": "430",
+    "exist_min": "344",
+    "exist_max": "336"
+  }
 ]
